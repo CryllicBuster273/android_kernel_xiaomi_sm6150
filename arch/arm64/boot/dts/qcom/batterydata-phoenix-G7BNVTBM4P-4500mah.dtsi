@@ -3,11 +3,11 @@ qcom,4226072_Xiaomi_G7BNVTBM4P_4500mAh {
 	qcom,max-voltage-uv = <4400000>;
 	qcom,ffc-max-voltage-uv = <4450000>;
 	qcom,fg-cc-cv-threshold-uv = <4390000>;
-	qcom,fastchg-current-ma = <5500>;
+	qcom,fastchg-current-ma = <3000>;
 	qcom,jeita-fcc-ranges = <0  50  880000
 				51  100  2200000
 				101 150  3080000
-				151 450  5500000
+				151 450  3000000
 				451 580  2200000>;
 	qcom,jeita-fv-ranges = <0   50  4400000
 				51  100  4400000
